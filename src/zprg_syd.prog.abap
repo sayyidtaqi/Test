@@ -7,6 +7,6 @@ REPORT ZPRG_SYD.
 "Tambah
 PARAMETERS : p_maktx type maktx.
 
-"Tambah wwwww
+"Tambah 2X
 
-"Tambah 3x
+"sssss
